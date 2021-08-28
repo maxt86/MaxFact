@@ -1,5 +1,6 @@
 # MaxFact
-This is my half-avatar half-program which calculates the factorial of a given number.
+This is my super cool avatar.
+The image is a valid Piet program which calculates the factorial of a given number.
 
 # Run
 1. Visit [this](https://www.bertnase.de/npiet/npiet-execute.php) website
