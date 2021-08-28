@@ -10,4 +10,4 @@ The image is a valid Piet program which calculates the factorial of a given numb
 5. Enter any number into the 'input string' field
 6. Profit!
 
-Made in 6 hours :)
+Made in 5+ hours :)
