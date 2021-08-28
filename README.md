@@ -9,7 +9,7 @@ The image is a valid Piet program which calculates the factorial of a given numb
 2. Upload the avatar
 3. Solve the CAPTCHA
 4. Click on the 'Upload and ask about input' (Option 2b)
-5. Enter any number into the 'input string' field
+5. Put any number into the 'input string' field
 6. Profit!
 
 Made in 5+ hours :)
